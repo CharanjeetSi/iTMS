@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="404e84702f697910442218acf699b6c8" label="Timesheet" max_length="40" name="x_956260_itms_timesheet" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="200" name="description" type="string"/>
+        <element attributes="encode_utf8=false" label="Employee ID" max_length="32" name="employee_id" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="End Time" max_length="40" name="end_time" type="glide_date_time"/>
+        <element label="Hours" max_length="40" name="hours" type="glide_duration"/>
+        <element display="true" label="Number" max_length="40" name="number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Task" max_length="40" name="task" type="string"/>
+        <index name="index">
+            <element name="employee_id"/>
+        </index>
+    </element>
+</database>

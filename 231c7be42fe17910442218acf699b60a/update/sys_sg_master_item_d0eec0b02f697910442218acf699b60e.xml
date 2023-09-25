@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_956260_itms_timesheet</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Timesheet Form Screen">9cee80b02f697910442218acf699b6fe</embedded_screen>
+        <item_view/>
+        <name>Timesheet master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 06:51:09</sys_created_on>
+        <sys_id>d0eec0b02f697910442218acf699b60e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Timesheet master_item</sys_name>
+        <sys_package display_value="iTMS" source="x_956260_itms">231c7be42fe17910442218acf699b60a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iTMS">231c7be42fe17910442218acf699b60a</sys_scope>
+        <sys_update_name>sys_sg_master_item_d0eec0b02f697910442218acf699b60e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 06:51:09</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Timesheet List Screen View Config">84ee80b02f697910442218acf699b6c5</view_config>
+    </sys_sg_master_item>
+</record_update>

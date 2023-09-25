@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Timesheet)">98eec0b02f697910442218acf699b622</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Timesheet)</name>
+        <order/>
+        <parent>9cee80b02f697910442218acf699b6fe</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 06:51:10</sys_created_on>
+        <sys_id>54eec0b02f697910442218acf699b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Timesheet)</sys_name>
+        <sys_package display_value="iTMS" source="x_956260_itms">231c7be42fe17910442218acf699b60a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iTMS">231c7be42fe17910442218acf699b60a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_54eec0b02f697910442218acf699b640</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 06:51:10</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=54eec0b02f697910442218acf699b640"/>
+</record_update>
